@@ -1,3 +1,8 @@
+# What is different with this fork...
+
+* Updated to latest to latest https://github.com/blueimp/jQuery-File-Upload versions of files as of 2014-03-05
+* Bootstrap is not used internally so some of the fileupload-ui has been modified.
+
 # jQuery File Upload for Rails
 
 [jQuery-File-Plugin](https://github.com/blueimp/jQuery-File-Upload) is a file upload plugin written by [Sebastian Tschan](https://github.com/blueimp). jQuery File Upload features multiple file selection, drag&drop support, progress bars and preview images for jQuery. Supports cross-domain, chunked and resumable file uploads and client-side image resizing.
