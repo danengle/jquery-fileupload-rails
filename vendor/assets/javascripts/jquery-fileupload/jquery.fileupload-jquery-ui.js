@@ -116,7 +116,7 @@
                 .find('.fileinput-button').each(function () {
                     var input = $(this).find('input:file').detach();
                     $(this)
-                        .button({icons: {primary: 'ui-icon-plusthick'}})
+                        .button()
                         .append(input);
                 })
                 .end().find('.start')
